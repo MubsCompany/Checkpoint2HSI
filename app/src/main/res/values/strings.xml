@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Checkpoint2HSI</string>
+    <string name="belum_bisa_akses">Belum bisa akses?</string>
+    <string name="hubungi_cs_ikhwan">Hubungi CS Ikhwan</string>
+    <string name="hubungi_cs_akhwat">Hubungi CS Akhwat</string>
+    <string name="lihat_faq">Lihat FAQ</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="nip">NIP</string>
+    <string name="arn123_1234">ARN123-1234</string>
+    <string name="password_value">..........</string>
+    <string name="nip_dan_password_harus_diisi">NIP dan Password harus diisi</string>
+    <string name="nip_harus_diisi">NIP harus diisi</string>
+    <string name="password_harus_diisi">Password harus diisi</string>
+    <string name="menuju_halaman_beranda">Menuju Halaman Beranda</string>
+    <string name="menuju_halaman_faq">Menuju Halaman FAQ...</string>
+    <string name="menghubungi_cs_ikhwan">Menghubungi CS Ikhwan...</string>
+    <string name="menghubungi_cs_akhwat">Menghubungi CS Akhwat...</string>
+</resources>
